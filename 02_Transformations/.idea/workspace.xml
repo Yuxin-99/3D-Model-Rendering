@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0013e273-44f9-46f4-b5f0-2e85ccf67dce" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iq0aS1XfH1OXSXfeL0NUxga1Sb" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Transformations.html">
+    <configuration name="A2_Bonus.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/02_Transformations_template/A2_Bonus.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="A2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/02_Transformations_template/A2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Inverse_Kinematics.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/02_Transformations/Inverse_Kinematics.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Transformations.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/02_Transformations/Transformations.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Transformations.html" />
+        <item itemvalue="JavaScript Debug.Inverse_Kinematics.html" />
+        <item itemvalue="JavaScript Debug.A2_Bonus.html" />
+        <item itemvalue="JavaScript Debug.A2.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0013e273-44f9-46f4-b5f0-2e85ccf67dce" name="Default Changelist" comment="" />
+      <created>1602619877306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602619877306</updated>
+      <workItem from="1602619879121" duration="1933000" />
+      <workItem from="1603222277672" duration="6860000" />
+      <workItem from="1603305091106" duration="4626000" />
+      <workItem from="1603317494806" duration="7128000" />
+      <workItem from="1603512173309" duration="7804000" />
+      <workItem from="1603566770379" duration="22434000" />
+      <workItem from="1604512543984" duration="382000" />
+      <workItem from="1604513723180" duration="199000" />
+      <workItem from="1604948364279" duration="5000" />
+      <workItem from="1604948388976" duration="615000" />
+      <workItem from="1604949032816" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
