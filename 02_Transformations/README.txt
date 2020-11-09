@@ -1,6 +1,4 @@
 Name: Yuxin Wang
-Student Number: 23838436
-Login ID: h8u1b
 
 Instructions:
     (1) Run "Transformations.html" to view basic rotation, translation, and scaling transformations to the model:
