@@ -1,6 +1,4 @@
 Name: Yuxin Wang
-Student Number: 23838436
-Login ID: h8u1b
 
 Instructions of Part 2:
 Please use your keyboards to interact with the racoon and the remote!
