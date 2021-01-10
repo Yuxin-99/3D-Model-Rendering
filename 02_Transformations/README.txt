@@ -1,5 +1,3 @@
-Name: Yuxin Wang
-
 Instructions:
     (1) Run "Transformations.html" to view basic rotation, translation, and scaling transformations to the model:
             (i) Press "1" to rotate the body of the octopus
