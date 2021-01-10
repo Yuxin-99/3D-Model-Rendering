@@ -1,6 +1,4 @@
-Name: Yuxin Wang
-
-Instructions of Part 2:
+Instructions:
 Please use your keyboards to interact with the racoon and the remote!
     (1) Press keys "1-3" to change the colour of the remote
     (2) Press keys "A" & "D" to move the remote along the x-axis; press keys "W" & "S" to move the remote along the y-axis;
